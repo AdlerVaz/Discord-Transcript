@@ -6,6 +6,6 @@
   </a>
 </div>
 
-### If you are you need support on the codes feel free to join the support server!
+### If you  need support on the codes feel free to join the support server!
 
 Specify an amount of messages and it will return a discord chat template with messages, acts like a transcript.
